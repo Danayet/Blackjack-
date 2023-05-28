@@ -70,31 +70,4 @@ function newCard() {
 }
 
 
-// // Define an array of fruits
-// let fruit = ["🍎", "🍊", "🍎", "🍎", "🍊"];
 
-// // Get reference to the element with id "apple-shelf"
-// let appleShelf = document.getElementById("apple-shelf");
-
-// // Get reference to the element with id "orange-shelf"
-// let orangeShelf = document.getElementById("orange-shelf");
-
-// // Create a function that puts the apples onto the appleShelf
-// // and the oranges onto the orangeShelf. Use a for loop,
-// // a conditional statement, and the textContent property.
-// function sortFruit() {
-//   // Loop through each fruit in the fruit array
-//   for (let i = 0; i < fruit.length; i++) {
-//     // Check the type of fruit at the current position (fruit[i])
-//     if (fruit[i] === "🍎") {
-//       // If it's an apple, add it to the appleShelf
-//       appleShelf.textContent += "🍎";
-//     } else if (fruit[i] === "🍊") {
-//       // If it's an orange, add it to the orangeShelf
-//       orangeShelf.textContent += "🍊";
-//     }
-//   }
-// }
-
-// // Call the sortFruit function to sort and display the fruits
-// sortFruit();
