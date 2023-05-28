@@ -2,18 +2,15 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: center;;
+    justify-content: center;
     color: white;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-image: url("image/green\ backgrpund.jpg");
-    text-align: center;
+    background-image: url("https://t3.ftcdn.net/jpg/00/65/27/72/360_F_65277230_Gc75iJUEC3f06FGLArYy9q1yoaKlwFm3.jpg");
     background-size: cover;
-    color: white;
+    text-align: center;
     font-weight: bold;
     font-size: 50px;
-    
 }
-
 
 button {
     color: #016f32;
